@@ -1,0 +1,697 @@
+ /* 1320 */
+ @media (min-width:1400px) {
+     .container {
+         max-width: 1320px !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+     }
+ }
+/* 1140 */
+ @media (min-width:1200px) and (max-width:1399px) {
+     .container {
+         max-width: 1140px !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+     }
+ }
+/* 960 */
+ @media (min-width:992px) and (max-width:1199px) {
+     .container {
+         max-width: 960px !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+     }
+     /* main-banner */
+     .main-banner h1 {
+        font-size: 50px !important;
+     }
+     .main-banner .btn1{
+        margin-top: 35px;
+     }
+ }
+ /* 720 */
+ @media (min-width:768px) and (max-width:991px) {
+      .container {
+         max-width: 720px !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+     }
+     /* header */
+     header nav ul li{
+        display: none;
+     }
+     /* main-banner */
+     .main-banner .sub-title{
+        margin-bottom: 13px;
+        font-size: 14px;
+    }
+    .main-banner .main-content h1{
+        font-size: 65px !important;
+        font-weight: 600;
+     }
+     .main-banner .btn1{
+        margin-top: 40px;
+     }
+     .main-banner .shape4{
+        display: none;
+     }
+     .main-banner .shape8{
+        display: none;
+     }
+     .main-banner .shape9{
+        display: none;
+     }
+     /* our services */
+     .featured-services .col4{
+        flex: 0 0 auto;
+        width: 50%;
+     }
+      /* about */
+      .about .col6{
+         flex: 0 0 auto;
+         width: 100% !important;
+      }
+      /* what we do */
+      .what-we .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      /* why choose us */
+      .Why-Choose-Us .col6{
+         flex: 0 0 auto;
+         width: 100% !important;
+      }
+      /* fun-facts-area */
+      .fun-facts-area .col3{
+         width: 50%;
+         flex: 0 0 auto;
+      }
+      /* Project Gallery */
+      .progect-gallery .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      .progect-gallery .col4:nth-child(3){
+         display: none;
+      }
+      /* Our Features */
+      .features-area .col2{
+         width: 33.33%;
+         flex: 0 0 auto;
+      } 
+      /* team-area */
+      .team-area .col6{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* Watch Our Video */
+      .video-area .col6{
+         width: 100%;
+         flex: 0 0 auto;
+      }
+      /* feedback-area */
+      .feedback-area .col3{
+         width: 50%;
+         flex: 0 0 auto;
+      }
+      .feedback-area .col3:nth-child(3){
+         display: none;
+      }
+      .feedback-area .col3:nth-child(4){
+         display: none;
+      }
+      /* Pricing Plan */
+      .pricing-aera .col4{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* Latest News */
+      .blog-area .col4{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* footer */
+      .footer-area .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      .shape{
+         display: none;
+      }
+
+ }
+
+/* 540 */
+ @media (min-width:576px) and (max-width:767px) {
+     .container {
+         max-width: 540px !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+     }
+     /* header */
+     header nav ul li{
+        display: none;
+     }
+     /* main-banner */
+     .main-banner .sub-title{
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .main-banner h1 {
+        font-size: 32px !important;
+     }
+     .main-banner .btn1{
+        margin-top: 35px;
+     }
+     .main-banner .shape{
+        display: none;
+     }
+     /* our services */
+     .featured-services .col4{
+        flex: 0 0 auto;
+        width: 50%;
+     }
+        /* about */
+      .about .col6{
+         flex: 0 0 auto;
+         width: 100% !important;
+      }
+      /* what we do */
+      .what-we .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      /* why choose us */
+      .Why-Choose-Us .col6{
+         flex: 0 0 auto;
+         width: 100% !important;
+      }
+      /* fun-facts-area */
+      .fun-facts-area .col3{
+         width: 50%;
+         flex: 0 0 auto;
+      }
+      /* Project Gallery */
+      .progect-gallery .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      .progect-gallery .col4:nth-child(3){
+         display: none;
+      }
+      /* Our Features */
+      .features-area .col2{
+         width: 33.33%;
+         flex: 0 0 auto;
+      } 
+      /* team-area */
+      .team-area .col6{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* Watch Our Video */
+      .video-area .col6{
+         width: 100%;
+         flex: 0 0 auto;
+      }
+      /* feedback-area */
+      .feedback-area .col3{
+         width: 50%;
+         flex: 0 0 auto;
+      }
+      .feedback-area .col3:nth-child(3){
+         display: none;
+      }
+      .feedback-area .col3:nth-child(4){
+         display: none;
+      }
+      /* Pricing Plan */
+      .pricing-aera .col4{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* Latest News */
+      .blog-area .col4{
+         width: 50% !important;
+         flex: 0 0 auto;
+      }
+      /* footer */
+      .footer-area .col4{
+         flex: 0 0 auto;
+         width: 50%;
+      }
+      .shape{
+         display: none;
+      }
+ }
+/* 100% */
+ @media (max-width:575px) {
+     .container {
+         max-width: 100% !important;
+         margin-left: auto !important;
+         margin-right: auto !important;
+         /* padding-left: 30% !important;
+         padding-right: 30% !important; */
+     }
+     /* header */
+     header nav {
+        display: none;
+     }
+     /* main-banner */
+     .main-banner .sub-title{
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .main-banner h1 {
+        font-size: 30px !important;
+     }
+     .main-banner .btn1{
+        margin-top: 35px;
+     }
+     .main-banner .shape{
+        display: none;
+     }
+     .main-banner .content{
+        text-align: center;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 25px
+    }
+    .main-banner{
+        padding-top: 130px !important;
+    }
+      /* our services */
+      .featured-services .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+      .featured-services h2{
+        font-size: 26px !important;
+        max-width: 100% !important;
+        margin-left: 0 !important ;
+        margin-right: 0 !important;
+     }
+     .featured-services .box-content:nth-child(1){
+        margin-top: -25px;
+     }
+     .featured-services i{
+        margin-top: 40px;
+        font-size: 35px;
+     }
+     .featured-services h3{
+        font-size: 20px !important;
+     }
+      .featured-services .col4{
+        flex: 0 0 auto;
+        width: 100%;
+     }
+     .featured-services{
+        padding-top: 60px !important;
+        padding-bottom: 30px !important;
+     }
+     /* about */
+     .about .col6{
+        flex: 0 0 auto !important;
+        width: 100% !important;
+     }
+     .about .about-content{
+        padding-left: 0;
+        text-align: center;
+        margin-top: 25px;
+     }
+     .about .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+     .about h2{
+        font-size: 26px !important;
+     }
+     .about p{
+        font-size: 14xpx;
+     }
+     .about .features-list{
+        text-align: start;
+        margin-top: -5px;
+     }
+     .about .about-content ul li{
+        flex: 0 0 100%;
+        max-width: 100%;
+     }
+     .about .about-content .features-list li span{
+        padding: 11px 12px 8px 37px;
+        font-size: 14px;
+     }
+     .about .about-content .features-list li span i{
+        font-size: 10px;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+     }
+     .about .shape{
+        display: none;
+     }
+     .about{
+        padding-bottom: 60px !important;
+     }
+     /* what we do */
+     .what-we{
+        padding-top: 70px !important;
+        padding-bottom: 40px !important;
+     }
+     .what-we .what-title{
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 40px;
+     }
+     .what-we .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+     .what-we .what-title h2{
+        font-size: 26px;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+     }
+     .what-we .col4{
+        width: 100%;
+     }
+     .what-we .services-box{
+        padding: 40px 25px;
+     }
+     .what-we .services-box .services-icon{
+        transform: translateY(-15px);
+        width: 65px;
+        height: 65px;
+        line-height: 70px;
+        font-size: 30px;
+        margin-bottom: 20px;
+     }
+     .what-we .services-box h3{
+        transform: translateY(-15px);
+        font-size: 20px;
+     }
+     .what-we .services-box p{
+        transform: translateY(-15px);
+        margin-top: 11px;
+     }
+     .what-we .services-box .read-more-btn{
+        font-size: 15px;
+         opacity: 1;
+         visibility: visible;
+         bottom: 17px;
+     }
+     /* Why Choose Us */
+     .Why-Choose-Us{
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+     }
+     .Why-Choose-Us .col6{
+        width: 100% !important;
+     }
+     .Why-Choose-Us .Why-Choose-contant{
+        padding-right: 0;
+        text-align: center;
+     }
+     .Why-Choose-Us .Why-Choose-contant .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+     .Why-Choose-Us .Why-Choose-contant h2{
+        font-size: 26px;
+     }
+     .Why-Choose-Us .Why-Choose-contant p{
+        font-size: 14px;
+     }
+     .Why-Choose-Us .Why-Choose-contant h4{
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+     }
+     /* fun-facts-area */
+     .fun-facts-area{
+        padding-bottom: 30px !important;
+     }
+     .fun-facts-area .col3{
+        width: 100%;
+     }
+     .fun-facts-area .single-fun-facts{
+        padding: 33px 30px 20px;
+        margin-bottom: 30px;
+     }
+     /* Project Gallery */
+     .progect-gallery{
+        padding-bottom: 30px !important;
+        padding-top: 60px !important;
+     }
+     .progect-gallery .section-title{
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 40px;
+     }
+     .progect-gallery .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+     .progect-gallery .section-title h2{
+        font-size: 26px;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+     }
+     .progect-gallery .col4{
+        width: 100%;
+     }
+     .progect-gallery .col4:nth-child(2){
+        display: none;
+     }
+     .progect-gallery .col4:nth-child(3){
+        display: none;
+     }
+     /* Our Features  */
+     .features-area{
+        padding-bottom: 20px !important;
+     }
+     .features-area .section-title{
+         max-width: 100%;
+         margin-left: 0;
+         margin-right: 0;
+         margin-bottom: 40px;
+     }
+     .features-area .section-title .sub-title{
+        margin-bottom: 7px;
+        font-size: 13px;
+     }
+     .features-area .section-title h2{
+        font-size: 26px;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+     }
+     .features-area .col2{
+        width: 50%;
+     }
+     .features-area .features-box{
+        margin-bottom: 25px;
+     }
+     .features-area .shape{
+        display: none;
+     }
+     /* Define Your Choices */
+
+     /* /////////////..........///////////// */
+
+     /* team-area */
+    .team-area{
+        padding-bottom: 30px !important;
+        padding-top: 0px !important;
+    }
+    .team-area .sub-title{
+      font-size: 13px;
+      margin-bottom: 7px;
+    }
+    .team-area .section-title h2{
+      font-size: 26px;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .team-area .col6{
+      width: 100% !important;
+      flex: 0 0 auto;
+    }
+    .single-team-box .image .social{
+      top: auto !important;
+      left: auto !important;
+      transform: translate(0, 0) !important;
+      margin-top: 0 !important;
+      padding: 10px 15px 5px !important;
+      right: 10px !important;
+      bottom: 10px !important;
+      opacity: 1 !important;
+      visibility: visible !important;
+    }
+    /* Watch Our Video  */
+    .video-area{
+
+    }
+    .video-area .col6{
+      width: 100%;
+    }
+    .video-area .video-content{
+      text-align: center;
+    }
+    .video-area .video-content .sub-title{
+      margin-bottom: 7px;
+      font-size: 13px;
+    }
+    .video-area .video-content h2{
+      font-size: 28px;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .video-area .watch-video{
+      margin-top: 60px;
+    }
+    /* feedback-area */
+    .feedback-area::before{
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+    }
+    .feedback-area .feedback-title .sub-title{
+      margin-bottom: 7px;
+      font-size: 13px;
+    }
+    .feedback-area .feedback-title h2{
+      font-size: 28px;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .feedback-area .col3{
+      width: 100%;
+    }
+    .feedback-area .feedback-slider{
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .feedback-area .col3:nth-child(2){
+      display: none;
+    }
+    .feedback-area .col3:nth-child(3){
+      display: none;
+    }
+    .feedback-area .col3:nth-child(4){
+      display: none;
+    }
+    /* Pricing Plan */
+    .pricing-aera{
+      padding-bottom: 30px !important;
+    }
+    .pricing-aera .sub-title{
+     margin-bottom: 8px;
+     font-size: 13px;
+    }
+    .pricing-aera .section-title h2{
+     font-size: 28px;
+     max-width: 100%;
+     margin-left: 0;
+     margin-right: 0
+    }
+    .pricing-aera .section-title p{
+      margin: 10px;
+    }
+    .pricing-aera .col4{
+      flex: 0 0 auto !important;
+      width: 100% !important;
+    }
+    .single-pricing-box .pricing-header h3{
+      font-size: 20px !important;
+    }
+    .single-pricing-box .price{
+      font-size: 35px !important;
+    }
+    /* partner-area */
+    .partner-area{
+      padding-bottom: 50px !important;
+      padding-top: 50px !important;
+    }
+    .partner-area .sub-title{
+      margin-bottom: 8px;
+      font-size: 13px;
+    }
+  .partner-area .section-title h2{
+      font-size: 26px;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0
+    }
+  .partner-area .single-partner-item{
+      flex: 0 0 50% !important;
+      max-width: 50% !important;
+    }
+    /* Latest News */
+    .blog-area{
+      padding-bottom: 30px !important;
+    }
+    .blog-area .section-title{
+      margin-bottom: 40px;
+    }
+    .blog-area .sub-title{
+      margin-bottom: 8px;
+      font-size: 13px;
+    }
+   .blog-area .section-title h2{
+      font-size: 25px;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0
+    }
+    .blog-area .col4{
+      width: 100% !important;
+    }
+    .single-blog-post .post-content h3 a{
+      font-size: 24px !important;
+    }
+    .single-blog-post .post-content p{
+      font-size: 14px ;
+    }
+
+
+    /* subscribe */
+    .subscribe-area{
+        padding-bottom: 60px !important;
+    }
+    .subscribe-area .sub-title{
+        margin-bottom: 8px;
+        font-size: 13px;
+    }
+    .subscribe-area .subscribe-content h2{
+        font-size: 28px;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0
+    }
+    /* .subscribe-content .subscribe-form{
+        max-width: 100% !important;
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+    .subscribe-content .subscribe-form .search-email{
+        height: 60px;
+        padding-left: 20px;
+        padding-top: 5px;
+        font-size: 16px;
+    } */
+    /* footer */
+    footer .footer-area .col4{
+      width: 100%;
+    }  
+    footer .footer-area h3{
+        margin-bottom: 30px;
+        font-size: 20px;
+    }
+ }
